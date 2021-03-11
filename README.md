@@ -88,6 +88,6 @@
 
 
 [website]: https://bnseamster.dev
-[twitter]: https://twitter.com/bnseamster
+[twitter]: https://twitter.com/BrandonSeam
 [linkedin]: https://www.linkedin.com/in/brandon-seamster/
 
